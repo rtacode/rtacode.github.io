@@ -1,8 +1,9 @@
-# benxidn.github.io
+# rtacode.github.io
+
 <html>
 <body>
-  <h1>Maintenance</h1>
-  <p style="text-align:justify">Situs sedang dalam perbaikan. Silahkan kembali lagi nanti, atau silahkan bergabung ke grup Telegram berikut untuk mendapatkan informasi lainnya.</p>
-  <input type="button" value="Join Telegram" onclick="this.value='Loading . . .';location.href='https://t.me/dextermodzz'" />
+  <h1>NEW SITE</h1>
+  <p style="text-align:justify">New Cheat Mobile Legends, silahkan bergabung ke chanel Telegram berikut untuk mendapatkan informasi lainnya.</p>
+  <input type="button" value="Chanel Telegram" onclick="this.value='Loading . . .';location.href='https://t.me/rtacode'" />
 </body>
 </html>
